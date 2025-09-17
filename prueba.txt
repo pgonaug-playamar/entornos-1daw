@@ -1,0 +1,4 @@
+este es un archivo de texto
+para subirlo a GitHub
+si todo va bien
+tendré una copia en la nube
